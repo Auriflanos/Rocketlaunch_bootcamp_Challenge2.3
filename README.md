@@ -20,7 +20,6 @@
 <p align="center">
   <a href="#Short-introduction-and-Experience-report">Short introduction and Experience report</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#Challenge-Bulletpoints">Challenge Bulletpoints</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#Result">Results</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#Technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#Developers">Developers</a>
 </p>
